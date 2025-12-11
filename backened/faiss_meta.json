@@ -604,5 +604,257 @@
     "url": null,
     "chunk_id": "retail_sales_dataset.csv_1765344637_79",
     "text": "uty,2,500,1000\r\n995,2023-04-30,CUST995,Female,41,Clothing,1,30,30\r\n996,2023-05-16,CUST996,Male,62,Clothing,1,50,50\r\n997,2023-11-17,CUST997,Male,52,Beauty,3,30,90\r\n998,2023-10-29,CUST998,Female,23,Beauty,4,25,100\r\n999,2023-12-05,CUST999,Female,36,Electronics,3,50,150\r\n1000,2023-04-12,CUST1000,Male,47,Electronics,4,30,120\r\n"
+  },
+  {
+    "title": null,
+    "url": "https://www.nbcnews.com/",
+    "chunk_id": "url_1765453161_0",
+    "text": "Indiana state senators will decide the fate of a Republican-drawn congressional map, settling a monthslong clash between GOP lawmakers and President Trump. Indiana state senators will decide the fate of a Republican-drawn congressional map, settling a monthslong clash between GOP lawmakers and President Trump. Experts say most people are unaware every state has an office dedicated to challenging denied insurance claims, surprise medical bills and Medicare fraud. Experts say most people are unaware every state has an office dedicated to challenging denied insurance claims, surprise medical bills and Medicare fraud. The Center for Biological Diversity is asking a federal judge to find the administration in violation of a law that sets the rules for images on the passes."
+  },
+  {
+    "title": null,
+    "url": "https://www.nbcnews.com/",
+    "chunk_id": "url_1765453161_1",
+    "text": "Fighting between the Southeast Asian countries has been among the most intense since a five-day battle in July that ended with a ceasefire pushed by Trump."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_0",
+    "text": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hidingMaría Corina Machado speaks to the BBC after her secret journey from her home country.8 hrs agoLatin AmericaTrump launches $1m 'gold card' immigration visasThe special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.11 hrs agoBusinessVenezuelan Nobel winner emerges to collect prize in Oslo after months in hidingMaría Corina Machado speaks to the BBC after her secret journey from her home country.8 hrs agoLatin AmericaTrump launches $1m 'gold card' immigration visasThe special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.11 hrs agoBusinessUS seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'The move is a sh"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_1",
+    "text": "ey can make a \"substantial benefit\" to the US.11 hrs agoBusinessUS seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'The move is a sharp escalation in Washington's pressure campaign against Nicolás Maduro's government.19 mins agoWorldPanic in France as children fall victim to lethal violence of Marseille drug gangsThe number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.6 hrs agoEuropeMore than 30 dead after Myanmar military air strike hits hospitalThe junta has stepped up bombardments by air in an attempt to reclaim territory from ethnic armies.4 hrs agoAsiaMoment skydiver's parachute wraps around plane wing Footage shows the skydiver stuck on the wing before cutting himself free and continuing with dive.4 hrs agoAustraliaLIVE"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_2",
+    "text": "chute wraps around plane wing Footage shows the skydiver stuck on the wing before cutting himself free and continuing with dive.4 hrs agoAustraliaLIVEWhat satellite images, ship-tracking and video tell us about tanker seized by USLatest updates from the BBC's specialists in fact-checking, verifying video and tackling disinformation.Only from the BBC10 of the greatest murder mysteries everAs the new Knives Out film, Wake Up Dead Man, is released on streaming, here's more ingenious – and confounding – whodunnits to watch and read.Why travellers love Japan's convenience store socksHow did a simple pair of striped socks turn into a tourist obsession?Recommended AudioThe Global StoryWhy the US says Europe is facing ‘civilisational erasure’SaveWitness HistoryThe Truth and Reconciliation Commissi"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_3",
+    "text": "ion?Recommended AudioThe Global StoryWhy the US says Europe is facing ‘civilisational erasure’SaveWitness HistoryThe Truth and Reconciliation Commission of South AfricaSaveThe Documentary PodcastDelivering medical support to those in needSaveThe Infinite Monkey CageHead in the Clouds - Owain Wyn Evans, Gavin Pretor-Pinney, Amanda MaycockSaveBig Boss Interview#16: GSK CEO: Why We Prioritise USA Over UKSaveOutlookIndia's cop-turned-artist whose Mum is his museSaveWorld of SecretsTrailerSaveWitness HistoryThe discovery of the coelacanthSaveThe InterviewDr."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_4",
+    "text": "Badr Abdelatty, Egyptian Foreign Minister: we’re pushing hard to end Sudan conflictSaveBusiness DailyWhat's the future for state-owned postal services?SaveMore newsPakistan's military sentences its former spy chief to 14 years in jail Faiz Hameed led Pakistan's ISI intelligence agency during the tenure of now-jailed former PM Imran Khan.43 mins agoAsiaFour French men accused of A$10m Australia jewellery heistOne of the allegedly stolen items was a Richard Mille watch with a gold smiley face, worth A$5m3 hrs agoWorldJapanese chess player calls out association's pregnancy biasA prominent shogi player says current rules force players to choose between their children and careers.7 hrs agoAsiaAustralian pilot has conviction for murder of camper overturned on appealGreg Lynn will face a retrial "
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_5",
+    "text": "etween their children and careers.7 hrs agoAsiaAustralian pilot has conviction for murder of camper overturned on appealGreg Lynn will face a retrial for the 2020 murder of 73-year-old camper Carol Clay.6 hrs agoAustraliaThe moment the earliest known man-made fire was uncoveredA stunning discovery at an archaeological dig in the UK is rewriting the timeline of when humans first made fire.Goa nightclub owners held in Thailand over deadly fire Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week.5 hrs agoAsiaHundreds in Japan get car driving licences suspended for drink cyclingThe drunk cyclists were deemed by police as likely to pose a \"significant danger\" as car drivers.6 hrs agoAsiaMust watchEvacuations in Washington state as record-setting floods hitTho"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_6",
+    "text": " police as likely to pose a \"significant danger\" as car drivers.6 hrs agoAsiaMust watchEvacuations in Washington state as record-setting floods hitThousands of people have been evacuated in the Unites States' Pacific Northwest region after river levels reached record-breaking highs.US & CanadaBBC speaks to Nobel Peace Prize winner María Corina MachadoThe Venezuelan opposition leader made her first public appearance in 11 months moments before the interview.Latin America1973 Battle of the Sexes was about social change - KingAmerican tennis legend Billie Jean King says the upcoming 'Battle of the Sexes' match between Aryna Sabalenka and Nick Kyrgios is \"not the same\" as her 1973 victory over Bobby Riggs.TennisMoment skydiver crash-lands onto traffic lightLocal police said the man was not inj"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_7",
+    "text": "rgios is \"not the same\" as her 1973 victory over Bobby Riggs.TennisMoment skydiver crash-lands onto traffic lightLocal police said the man was not injured in the crash in Mexico City on 9 December.Latin AmericaVideo shows US military seizing oil tanker off Venezuela coastAccording to US Attorney General Pam Bondi, who shared the footage, the tanker was used to transport sanctioned oil from Venezuela and Iran.WorldToronto's rubbish-filled basin gets a dramatic lakeside revivalA professor and his students spent three years removing rubbish from the city's Peter Street Basin - now they're swimming in it.US & CanadaWatch Australian teens test out social media on first day of banTeenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access th"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_8",
+    "text": " social media on first day of banTeenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.AustraliaTop US lawmakers join annual Menorah lighting at CapitolHouse Speaker Mike Johnson, Hakeem Jeffries and Chuck Schumer participated in the annual ceremony that commemorates the eight days of Hanukkah.US & CanadaWorld of BusinessThe Swiss city that lets you pay for most things with bitcoinShops, restaurants and even the local council in Lugano now accept the cryptocurrency.See moreScience & HealthThe year the seas fell silentDuring the lockdowns of 2020, global shipping was severely restricted and ocean noise pollution all but ceased."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_9",
+    "text": "everely restricted and ocean noise pollution all but ceased."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_10",
+    "text": "Instead the songs of fish filled the sea.See moreUS & Canada newsUS could ask foreign tourists for five-year social media history before entryThe plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa.Trump veers off-script and does little to calm Republican nervesRubio orders return to Times New Roman font over 'wasteful' Calibri Judge rules Epstein grand jury records from 2019 case can be releasedMore world newsFormer Bolivian President Luis Arce arrested in corruption probeThe investigation stems from when Luis Arce was minister of economy under then-president Evo Morales.How Race Across the World changed our relationshipBig tech bets big on AI - but can India keep pace in the global race?Exiled Hong Kong activist target of sexually explicit"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_11",
+    "text": "rld changed our relationshipBig tech bets big on AI - but can India keep pace in the global race?Exiled Hong Kong activist target of sexually explicit harassment campaignBusinessMexico approves up to 50% tariffs on China and other countriesThe levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.Fed lowers interest rates but future cuts uncertainUK pharma boss says US is the best country to invest inOracle shares slide as earnings fail to ease AI bubble fearsSportSports Personality of the Year shortlist announcedFind out who is on the shortlist for the 2025 BBC Sports Personality of the Year award.'No-one downing tools' - Alonso's stay of execution despite loss to Man CityFour decisions for England before third Ashes TestWhat must Allen and "
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_12",
+    "text": "ard.'No-one downing tools' - Alonso's stay of execution despite loss to Man CityFour decisions for England before third Ashes TestWhat must Allen and Bills do to end Patriots' 10-game win streak?Latest Sport audioBBC Women's Football WeeklyExtra: Altrincham FC captain Nat Lowe on their FA Cup journeySaveTest Match SpecialNo Balls: The Finch Who Stole ChristmasSaveFootball DailyUCL Debrief: 100% Arsenal, nearly for Newcastle & City add to pressure on AlonsoSaveFootball Daily72+ EFL Pod: Blackburn’s pitch and Wrexham investmentSaveMore Than The ScoreOlivia Reeves: the Olympic weightlifting champion making her sport more accessibleSaveTest Match SpecialThe Ashes: Welcome to Adelaide!SaveFPL Podcast from BBC SportFinally, some expert adviceSaveFootball DailyUCL Debrief: Liverpool win at San Si"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_13",
+    "text": " SpecialThe Ashes: Welcome to Adelaide!SaveFPL Podcast from BBC SportFinally, some expert adviceSaveFootball DailyUCL Debrief: Liverpool win at San Siro, Chelsea slump in Atalanta & Spurs claim vital winSaveTechAI has entered the classroom - but is it the solution for overworked teachers?From deepfake teachers to remote maths lessons - how are schools using tech and AI in the classroom?Porn company starts new age checks after £1m Ofcom fineMcDonald's Netherlands pulls AI Christmas ad after backlashAustralia has banned social media for kids under 16."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_14",
+    "text": "How will it work?Science & healthSperm from donor with cancer-causing gene was used to conceive almost 200 childrenSome children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.Why sexism leaves 'scars' on the brainIronman world champion on managing coeliac diseasePioneering new UK treatment reverses incurable blood cancer in some patientsCultureRolling Stones finally approve Fatboy Slim sample after 25 yearsOne of the most bootlegged dance tracks of all time, Satisfaction Skank, gets an official release.Author Sophie Kinsella remembered as a 'wonderful, warm woman'Farewell (again) to Neighbours, Australia's longest running soap opera12 of the best alternative festive filmsArts From leaning glass tower to golden fish sculpture - Frank Ge"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_15",
+    "text": "bours, Australia's longest running soap opera12 of the best alternative festive filmsArts From leaning glass tower to golden fish sculpture - Frank Gehry's most iconic workAs one of architecture's most provocative and creative forces, Frank Gehry was behind intriguing buildings the world over.Sashiko: The art of stitching storiesWhat ancient women really thought about sexThe 80s Christmas TV horror that terrified BritainWatchThe dark history of Santa's official hometownHow an Arctic town rose from WWII ruins to reinvent itself as Europe's Christmas capital.See moreTravelMeaningful Christmas rituals around the worldThese seven global traditions show a different side to the season - one that's more communal, reflective and far less materialistic.Sorry, France, the world's best bubbly is Brit"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_16",
+    "text": "s show a different side to the season - one that's more communal, reflective and far less materialistic.Sorry, France, the world's best bubbly is BritishThe wildlife haven where Buddha was bornWhy travellers keep queueing for viral foodWorld's TableThe controversial snack that fuels Norwegian tripsKvikk Lunsj has fuelled outdoor adventures for generations."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_17",
+    "text": "So, what makes Norway's 'trip chocolate' so controversial?The hidden history of a classic American dishWhat Mamdani's win means for NYC's food sceneWhy Marseille restaurants are offering gourmet food for €1EarthTiger teeth, dried seahorses and shark fins sold illegally on Facebook, BBC findsEndangered species are being sold online with UK-based firms illegally supplying seahorses, a BBC investigation finds.Shell facing first UK legal claim over climate impacts of fossil fuelsHow monogamous are humans?"
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_18",
+    "text": "Scientists compile 'league table' of pairing upIain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83VideoJacinda Ardern once auditioned to be a HobbitThe former New Zealand PM says she auditioned for Lord of the Rings but fell short on a specific requirement.Tiny lion cubs try to avoid getting crushed by elephantsExploring Singapore's festive flavours with 'Nasi Ulam'Alexander Skarsgård's encounter with Miriam MargolyesDiscover more from the BBCSign up to Tech DecodedDecode the biggest developments in global technology, in your inbox every Monday and Friday.Download the BBC appClick here to download the BBC app for Apple and Android devices.US Politics UnspunNo noise. No agenda."
+  },
+  {
+    "title": null,
+    "url": "https://www.bbc.com/",
+    "chunk_id": "url_1765453480_19",
+    "text": "Just expert analysis of the issues that matter most from Anthony Zurcher, every Wednesday.Register for a BBC accountDon't have time to read everything right now? Your BBC account lets you save articles and videos for later. Sign up for the Essential ListThe week's best stories, handpicked by BBC editors, in your inbox every Tuesday and Friday."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_0",
+    "text": "Venezuelan Nobel winner emerges to collect prize in Oslo after months in hidingMaría Corina Machado speaks to the BBC after her secret journey from her home country.8 hrs agoLatin AmericaTrump launches $1m 'gold card' immigration visasThe special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.11 hrs agoBusinessVenezuelan Nobel winner emerges to collect prize in Oslo after months in hidingMaría Corina Machado speaks to the BBC after her secret journey from her home country.8 hrs agoLatin AmericaTrump launches $1m 'gold card' immigration visasThe special visas will be awarded to those who can show they can make a \"substantial benefit\" to the US.11 hrs agoBusinessUS seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'The move is a sh"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_1",
+    "text": "ey can make a \"substantial benefit\" to the US.11 hrs agoBusinessUS seizes oil tanker off Venezuela as Caracas condemns 'act of piracy'The move is a sharp escalation in Washington's pressure campaign against Nicolás Maduro's government.29 mins agoWorldPanic in France as children fall victim to lethal violence of Marseille drug gangsThe number of teenagers involved in the drugs trade has quadrupled in eight years, the government says.6 hrs agoEuropeSevere disruption hits Portugal in first general strike for 12 yearsPM Luís Montenegro appears to have been taken aback by the strength of feeling against his government's labour reforms.1 hr agoEuropeMoment skydiver's parachute wraps around plane wing Footage shows the skydiver stuck on the wing before cutting himself free and continuing with div"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_2",
+    "text": "peMoment skydiver's parachute wraps around plane wing Footage shows the skydiver stuck on the wing before cutting himself free and continuing with dive.4 hrs agoAustraliaMore than 30 dead after Myanmar military air strike hits hospitalThe junta has stepped up bombardments by air in an attempt to reclaim territory from ethnic armies.4 hrs agoAsiaOnly from the BBC10 of the greatest murder mysteries everAs the new Knives Out film, Wake Up Dead Man, is released on streaming, here are more ingenious – and confounding – whodunnits to watch and read.Why travellers love Japan's convenience store socksHow did a simple pair of striped socks turn into a tourist obsession?Recommended AudioThe Global StoryWhy the US says Europe is facing ‘civilisational erasure’SaveWitness HistoryThe Truth and Reconcil"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_3",
+    "text": " tourist obsession?Recommended AudioThe Global StoryWhy the US says Europe is facing ‘civilisational erasure’SaveWitness HistoryThe Truth and Reconciliation Commission of South AfricaSaveThe Documentary PodcastDelivering medical support to those in needSaveThe Infinite Monkey CageHead in the Clouds - Owain Wyn Evans, Gavin Pretor-Pinney, Amanda MaycockSaveBig Boss Interview#16: GSK CEO: Why We Prioritise USA Over UKSaveOutlookIndia's cop-turned-artist whose Mum is his museSaveWorld of SecretsTrailerSaveWitness HistoryThe discovery of the coelacanthSaveThe InterviewDr."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_4",
+    "text": "Badr Abdelatty, Egyptian Foreign Minister: we’re pushing hard to end Sudan conflictSaveBusiness DailyWhat's the future for state-owned postal services?SaveMore newsPakistan's military sentences its former spy chief to 14 years in jail Faiz Hameed led Pakistan's ISI intelligence agency during the tenure of now-jailed former PM Imran Khan.53 mins agoAsiaFour French men accused of A$10m Australia jewellery heistOne of the allegedly stolen items was a Richard Mille watch with a gold smiley face, worth A$5m4 hrs agoWorldJapanese chess player calls out association's pregnancy biasA prominent shogi player says current rules force players to choose between their children and careers.7 hrs agoAsiaAustralian pilot has conviction for murder of camper overturned on appealGreg Lynn will face a retrial "
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_5",
+    "text": "etween their children and careers.7 hrs agoAsiaAustralian pilot has conviction for murder of camper overturned on appealGreg Lynn will face a retrial for the 2020 murder of 73-year-old camper Carol Clay.6 hrs agoAustraliaThe moment the earliest known man-made fire was uncoveredA stunning discovery at an archaeological dig in the UK is rewriting the timeline of when humans first made fire.Goa nightclub owners held in Thailand over deadly fire Brothers Gaurav and Saurabh Luthra fled to Phuket, shortly after the incident last week.5 hrs agoAsiaHundreds in Japan get car driving licences suspended for drink cyclingThe drunk cyclists were deemed by police as likely to pose a \"significant danger\" as car drivers.6 hrs agoAsiaMust watchEvacuations in Washington state as record-setting floods hitTho"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_6",
+    "text": " police as likely to pose a \"significant danger\" as car drivers.6 hrs agoAsiaMust watchEvacuations in Washington state as record-setting floods hitThousands of people have been evacuated in the Unites States' Pacific Northwest region after river levels reached record-breaking highs.US & CanadaBBC speaks to Nobel Peace Prize winner María Corina MachadoThe Venezuelan opposition leader made her first public appearance in 11 months moments before the interview.Latin America1973 Battle of the Sexes was about social change - KingAmerican tennis legend Billie Jean King says the upcoming 'Battle of the Sexes' match between Aryna Sabalenka and Nick Kyrgios is \"not the same\" as her 1973 victory over Bobby Riggs.TennisMoment skydiver crash-lands onto traffic lightLocal police said the man was not inj"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_7",
+    "text": "rgios is \"not the same\" as her 1973 victory over Bobby Riggs.TennisMoment skydiver crash-lands onto traffic lightLocal police said the man was not injured in the crash in Mexico City on 9 December.Latin AmericaVideo shows US military seizing oil tanker off Venezuela coastAccording to US Attorney General Pam Bondi, who shared the footage, the tanker was used to transport sanctioned oil from Venezuela and Iran.WorldToronto's rubbish-filled basin gets a dramatic lakeside revivalA professor and his students spent three years removing rubbish from the city's Peter Street Basin - now they're swimming in it.US & CanadaWatch Australian teens test out social media on first day of banTeenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access th"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_8",
+    "text": " social media on first day of banTeenagers affected by Australia's under-16 social media ban showed the BBC what happened when they tried to access their accounts.AustraliaTop US lawmakers join annual Menorah lighting at CapitolHouse Speaker Mike Johnson, Hakeem Jeffries and Chuck Schumer participated in the annual ceremony that commemorates the eight days of Hanukkah.US & CanadaWorld of BusinessThe Swiss city that lets you pay for most things with bitcoinShops, restaurants and even the local council in Lugano now accept the cryptocurrency.See moreScience & HealthThe year the seas fell silentDuring the lockdowns of 2020, global shipping was severely restricted and ocean noise pollution all but ceased."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_9",
+    "text": "everely restricted and ocean noise pollution all but ceased."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_10",
+    "text": "Instead the songs of fish filled the sea.See moreUS & Canada newsUS could ask foreign tourists for five-year social media history before entryThe plan would affect people from countries, including the UK, who can fill out a form in lieu of a visa.Trump veers off-script and does little to calm Republican nervesRubio orders return to Times New Roman font over 'wasteful' Calibri Judge rules Epstein grand jury records from 2019 case can be releasedMore world newsFormer Bolivian President Luis Arce arrested in corruption probeThe investigation stems from when Luis Arce was minister of economy under then-president Evo Morales.How Race Across the World changed our relationshipBig tech bets big on AI - but can India keep pace in the global race?Exiled Hong Kong activist target of sexually explicit"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_11",
+    "text": "rld changed our relationshipBig tech bets big on AI - but can India keep pace in the global race?Exiled Hong Kong activist target of sexually explicit harassment campaignBusinessMexico approves up to 50% tariffs on China and other countriesThe levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.Fed lowers interest rates but future cuts uncertainUK pharma boss says US is the best country to invest inOracle shares slide as earnings fail to ease AI bubble fearsSportSports Personality of the Year shortlist announcedFind out who is on the shortlist for the 2025 BBC Sports Personality of the Year award.'No-one downing tools' - Alonso's stay of execution despite loss to Man CityFour decisions for England before third Ashes TestWhat must Allen and "
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_12",
+    "text": "ard.'No-one downing tools' - Alonso's stay of execution despite loss to Man CityFour decisions for England before third Ashes TestWhat must Allen and Bills do to end Patriots' 10-game win streak?Latest Sport audioBBC Women's Football WeeklyExtra: Altrincham FC captain Nat Lowe on their FA Cup journeySaveTest Match SpecialNo Balls: The Finch Who Stole ChristmasSaveFootball DailyUCL Debrief: 100% Arsenal, nearly for Newcastle & City add to pressure on AlonsoSaveFootball Daily72+ EFL Pod: Blackburn’s pitch and Wrexham investmentSaveMore Than The ScoreOlivia Reeves: the Olympic weightlifting champion making her sport more accessibleSaveTest Match SpecialThe Ashes: Welcome to Adelaide!SaveFPL Podcast from BBC SportFinally, some expert adviceSaveFootball DailyUCL Debrief: Liverpool win at San Si"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_13",
+    "text": " SpecialThe Ashes: Welcome to Adelaide!SaveFPL Podcast from BBC SportFinally, some expert adviceSaveFootball DailyUCL Debrief: Liverpool win at San Siro, Chelsea slump in Atalanta & Spurs claim vital winSaveTechAI has entered the classroom - but is it the solution for overworked teachers?From deepfake teachers to remote maths lessons - how are schools using tech and AI in the classroom?Porn company starts new age checks after £1m Ofcom fineMcDonald's Netherlands pulls AI Christmas ad after backlashAustralia has banned social media for kids under 16."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_14",
+    "text": "How will it work?Science & healthSperm from donor with cancer-causing gene was used to conceive almost 200 childrenSome children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.Why sexism leaves 'scars' on the brainIronman world champion on managing coeliac diseasePioneering new UK treatment reverses incurable blood cancer in some patientsCultureRolling Stones finally approve Fatboy Slim sample after 25 yearsOne of the most bootlegged dance tracks of all time, Satisfaction Skank, gets an official release.Author Sophie Kinsella remembered as a 'wonderful, warm woman'Farewell (again) to Neighbours, Australia's longest running soap opera12 of the best alternative festive filmsArts From leaning glass tower to golden fish sculpture - Frank Ge"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_15",
+    "text": "bours, Australia's longest running soap opera12 of the best alternative festive filmsArts From leaning glass tower to golden fish sculpture - Frank Gehry's most iconic workAs one of architecture's most provocative and creative forces, Frank Gehry was behind intriguing buildings the world over.Sashiko: The art of stitching storiesWhat ancient women really thought about sexThe 80s Christmas TV horror that terrified BritainWatchThe dark history of Santa's official hometownHow an Arctic town rose from WWII ruins to reinvent itself as Europe's Christmas capital.See moreTravelMeaningful Christmas rituals around the worldThese seven global traditions show a different side to the season - one that's more communal, reflective and far less materialistic.Sorry, France, the world's best bubbly is Brit"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_16",
+    "text": "s show a different side to the season - one that's more communal, reflective and far less materialistic.Sorry, France, the world's best bubbly is BritishThe wildlife haven where Buddha was bornWhy travellers keep queueing for viral foodWorld's TableThe controversial snack that fuels Norwegian tripsKvikk Lunsj has fuelled outdoor adventures for generations."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_17",
+    "text": "So, what makes Norway's 'trip chocolate' so controversial?The hidden history of a classic American dishWhat Mamdani's win means for NYC's food sceneWhy Marseille restaurants are offering gourmet food for €1EarthTiger teeth, dried seahorses and shark fins sold illegally on Facebook, BBC findsEndangered species are being sold online with UK-based firms illegally supplying seahorses, a BBC investigation finds.Shell facing first UK legal claim over climate impacts of fossil fuelsHow monogamous are humans?"
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_18",
+    "text": "Scientists compile 'league table' of pairing upIain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83VideoJacinda Ardern once auditioned to be a HobbitThe former New Zealand PM says she auditioned for Lord of the Rings but fell short on a specific requirement.Tiny lion cubs try to avoid getting crushed by elephantsExploring Singapore's festive flavours with 'Nasi Ulam'Alexander Skarsgård's encounter with Miriam MargolyesDiscover more from the BBCSign up to Tech DecodedDecode the biggest developments in global technology, in your inbox every Monday and Friday.Download the BBC appClick here to download the BBC app for Apple and Android devices.US Politics UnspunNo noise. No agenda."
+  },
+  {
+    "title": null,
+    "url": "https://bbc.com",
+    "chunk_id": "url_1765454241_19",
+    "text": "Just expert analysis of the issues that matter most from Anthony Zurcher, every Wednesday.Register for a BBC accountDon't have time to read everything right now? Your BBC account lets you save articles and videos for later. Sign up for the Essential ListThe week's best stories, handpicked by BBC editors, in your inbox every Tuesday and Friday."
   }
 ]
