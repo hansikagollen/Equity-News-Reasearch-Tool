@@ -1,170 +1,193 @@
-﻿# 📊 Equity News Research Assistant (Real-Time RAG System)
+# 📊 Equity News Research Assistant
 
-A real-time **Retrieval-Augmented Generation (RAG)** application that ingests PDFs, CSVs, text files, and live news URLs, indexes them using **FAISS vector search**, and enables **semantic search & question answering** through a modern **React Web UI** and a **FastAPI backend**.
+A **real-time document and news research platform** that enables semantic search and analysis over
+PDFs, CSV datasets, text files, and live news articles using **vector search**.
 
-This is a practical, production-style LLM system built for **financial research, news analysis, and dataset understanding**.
-
----
-
-## 🚀 Features
-
-### 🔹 1. Multi-format Document Ingestion
-Instant ingestion and indexing of:
-- PDF reports  
-- CSV datasets (row-wise extraction)  
-- TXT articles  
-- Live URLs (news sites, blogs, reports)
-
-### 🔹 2. Real-Time Ingestion (WebSockets)
-Live progress updates for:
-- Uploading large files  
-- Scraping URLs  
-- Indexing text chunks into FAISS  
-
-### 🔹 3. Semantic Search with FAISS
-Powered by:
-- **SentenceTransformer:** `all-MiniLM-L6-v2`  
-- **FAISS:** High-speed similarity search  
-- Supports **top-k retrieval** with millisecond latency  
-
-### 🔹 4. Clean React Frontend
-Includes:
-- File upload UI  
-- URL ingestion UI  
-- Real-time ingestion logs  
-- Query/search interface  
-- Recently indexed items viewer  
-
-### 🔹 5. FastAPI Backend
-Built using:
-- FastAPI  
-- Uvicorn  
-- Sentence Transformers  
-- FAISS  
-- Trafilatura  
-- PyPDF  
+The application is designed for **financial research, data exploration, and news analysis**, and demonstrates how modern retrieval systems used in LLM pipelines are built in practice.
 
 ---
 
-## 🏗️ Architecture Overview
+## 🚀 What This Project Does
 
-**Flow:**  
-`User Upload → Backend → Chunking → Embeddings → FAISS Index → Query → Response`
-
-**Real-time updates:**  
-`React UI <----- WebSockets -----> FastAPI`
-
-## Architecture (High Level)
-- Documents & URLs are ingested via FastAPI
-- Text is chunked and converted to embeddings (MiniLM)
-- Embeddings are stored in FAISS (vector database)
-- Queries are embedded and matched via cosine similarity
-- Results are streamed to the frontend in real-time using WebSockets
-
-
-### Components:
-- **Frontend:** React + WebSockets + Fetch API  
-- **Backend:** FastAPI + FAISS + Embedding Model  
-- **Vector DB:** FAISS  
-- **Embedding Model:** MiniLM-L6-v2  
+- Ingests **PDF, CSV, TXT files**, and **live news URLs**
+- Converts documents into **semantic embeddings**
+- Indexes data using **FAISS vector search**
+- Allows users to **ask natural language questions**
+- Displays **real-time ingestion progress** via WebSockets
+- Provides fast, accurate **semantic search results**
 
 ---
 
-## 📁 Project Structure
+## 🧠 Why This Project Matters
 
-equity-news-research-tool/
-│
-├── backend/
-│ ├── backend.py # FastAPI API + FAISS + ingestion/search logic
-│ ├── ws_manager.py # WebSocket event broadcasting
-│ ├── faiss.index # Vector store
-│ ├── faiss_meta.json # Metadata of stored chunks
-│ └── requirements.txt
-│
-├── frontend/
-│ ├── src/
-│ │ ├── App.jsx # Main UI
-│ │ ├── ws.js # WebSocket client
-│ │ └── index.css
-│ ├── public/
-│ └── package.json
-│
-├── README.md
-└── .gitignore
-
+Analyzing large datasets and financial news manually is slow and inefficient.
+This project shows how **vector databases and semantic search** can be used to build scalable,
+real-time research tools similar to those used in modern AI-powered products.
 
 ---
 
-## 🧠 How It Works
+## 🏗️ High-Level Architecture
 
-### 1️⃣ Chunking
-- Documents split into manageable chunks  
-- CSV → row-wise chunks  
-- PDF/TXT → sentence/paragraph-based  
+**Flow:**
 
-### 2️⃣ Embedding
-Each chunk is encoded using **MiniLM-L6-v2**.
+# 📊 Equity News Research Assistant
 
-### 3️⃣ Vector Indexing
-FAISS stores normalized vectors enabling fast **approximate nearest neighbor** search.
+A **real-time document and news research platform** that enables semantic search and analysis over
+PDFs, CSV datasets, text files, and live news articles using **vector search**.
 
-### 4️⃣ Real-Time Notifications
-Backend broadcasts steps:
-- DOWNLOADING  
-- EXTRACTING  
-- CHUNKING  
-- EMBEDDING  
-- INDEXING  
-- DONE  
-
-### 5️⃣ Querying
-Example query:  
-> “What does the Reuters article say about Nvidia?”
-
-Backend:
-1. Embeds query  
-2. Searches FAISS  
-3. Returns top chunks  
+The application is designed for **financial research, data exploration, and news analysis**, and demonstrates how modern retrieval systems used in LLM pipelines are built in practice.
 
 ---
 
-## Example Queries
-- "Summarize today’s uploaded news articles"
-- "What is this CSV dataset about?"
-- "What does the BBC article discuss?"
+## 🚀 What This Project Does
+
+- Ingests **PDF, CSV, TXT files**, and **live news URLs**
+- Converts documents into **semantic embeddings**
+- Indexes data using **FAISS vector search**
+- Allows users to **ask natural language questions**
+- Displays **real-time ingestion progress** via WebSockets
+- Provides fast, accurate **semantic search results**
+
+---
+
+## 🧠 Why This Project Matters
+
+Analyzing large datasets and financial news manually is slow and inefficient.
+This project shows how **vector databases and semantic search** can be used to build scalable,
+real-time research tools similar to those used in modern AI-powered products.
+
+---
+
+## 🏗️ High-Level Architecture
+
+**Flow:**
+
+# 📊 Equity News Research Assistant
+
+A **real-time document and news research platform** that enables semantic search and analysis over
+PDFs, CSV datasets, text files, and live news articles using **vector search**.
+
+The application is designed for **financial research, data exploration, and news analysis**, and demonstrates how modern retrieval systems used in LLM pipelines are built in practice.
+
+---
+
+## 🚀 What This Project Does
+
+- Ingests **PDF, CSV, TXT files**, and **live news URLs**
+- Converts documents into **semantic embeddings**
+- Indexes data using **FAISS vector search**
+- Allows users to **ask natural language questions**
+- Displays **real-time ingestion progress** via WebSockets
+- Provides fast, accurate **semantic search results**
+
+---
+
+## 🧠 Why This Project Matters
+
+Analyzing large datasets and financial news manually is slow and inefficient.
+This project shows how **vector databases and semantic search** can be used to build scalable,
+real-time research tools similar to those used in modern AI-powered products.
+
+---
+
+## 🏗️ High-Level Architecture
+
+**Flow:**
+
+Upload / URL
+↓
+Text Extraction & Chunking
+↓
+Sentence Embeddings (MiniLM)
+↓
+FAISS Vector Index
+↓
+Semantic Search Query
+↓
+Relevant Results Returned to UI
 
 
+**Real-time updates** are streamed to the frontend using **WebSockets**.
 
-## 🎯 Why This Project?
-Manual analysis of financial reports, datasets, and news articles is slow and inefficient.
-This project demonstrates how modern vector search and real-time ingestion can be used to
-build scalable research tools for analysts, students, and developers.
+---
 
-## 🖥️ Running the Backend (FastAPI)
+## 🧩 Tech Stack
 
-### Setup
+### Backend
+- **FastAPI** – API server
+- **FAISS** – Vector similarity search
+- **SentenceTransformers (MiniLM)** – Text embeddings
+- **Trafilatura** – Web article extraction
+- **PyPDF** – PDF parsing
+- **WebSockets** – Real-time progress updates
+
+### Frontend
+- **React**
+- **WebSockets**
+- **Fetch API**
+- Custom UI for ingestion, progress, and search
+
+---
+
+## 📂 Supported Inputs
+
+- 📄 PDF reports  
+- 📊 CSV datasets (row-wise indexing)  
+- 📝 Text files  
+- 🌐 Live news articles via URLs  
+
+---
+
+## 🔍 Example Use Cases
+
+- “Summarize the uploaded retail sales dataset”
+- “What does the BBC article discuss?”
+- “What trends appear in the uploaded CSV?”
+- “Search for information related to Nvidia in the uploaded news”
+
+---
+
+## 🖥️ Running the Application
+
+### Backend
 ```bash
 cd backend
 python -m venv venv
-venv\Scripts\activate    # Windows
+venv\Scripts\activate
 pip install -r requirements.txt
-
-Start Server
 uvicorn backend:app --host 127.0.0.1 --port 8000
 
-Backend available at:
-http://127.0.0.1:8000
 
-
-💻 Running the Frontend (React)
+Frontend
 cd frontend
 npm install
 npm run dev
 
-Frontend runs on:
-http://localhost:5173
+
+cd frontend
+npm install
+npm run dev
 
 
 
+⚠️ Notes
 
+This project focuses on retrieval and semantic search, not text generation.
 
+No external paid LLM APIs are used.
+
+Designed to be lightweight, fast, and fully local.
+
+A generative LLM can be easily added on top of this retrieval layer in the future.
+
+🎯 Key Takeaways
+
+Demonstrates real-world RAG retrieval architecture
+
+Shows practical use of vector databases
+
+Implements real-time data ingestion
+
+Clean separation of frontend and backend
+
+Scalable and production-style design
