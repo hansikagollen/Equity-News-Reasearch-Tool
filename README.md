@@ -128,6 +128,12 @@ Backend:
 
 ---
 
+## Example Queries
+- "Summarize today’s uploaded news articles"
+- "What is this CSV dataset about?"
+- "What does the BBC article discuss?"
+
+
 ## 🖥️ Running the Backend (FastAPI)
 
 ### Setup
@@ -151,4 +157,5 @@ npm run dev
 
 Frontend runs on:
 http://localhost:5173
+
 
